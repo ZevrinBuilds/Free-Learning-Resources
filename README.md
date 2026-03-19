@@ -12,3 +12,5 @@
 	\n## CS\nComputer Science degree-level courses.
 
 \n1. [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) 
+
+\n2. [OSSU](https://github.com/ossu/computer-science)
