@@ -3,3 +3,5 @@
 A curated list of free resources.
 
 ## Table of Contents
+
+- [Bootcamps](#bootcamps)
