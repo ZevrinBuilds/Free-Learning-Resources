@@ -21,3 +21,4 @@
 		\n2. [Hugging Face](https://huggingface.co/)
 
 		\n## Health\nMental health for developers.
+	\n## How to Contribute\nPull requests are welcome.
