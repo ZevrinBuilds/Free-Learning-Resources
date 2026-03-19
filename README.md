@@ -10,3 +10,5 @@
 \n2. [The Odin Project](https://www.theodinproject.com/)
 
 	\n## CS\nComputer Science degree-level courses.
+
+\n1. [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) 
