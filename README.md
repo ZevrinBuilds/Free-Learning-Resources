@@ -16,3 +16,4 @@
 \n2. [OSSU](https://github.com/ossu/computer-science)
 
 \n## AI\nArtificial Intelligence & API guides. 
+	\n1. [Pollinations.ai](https://pollinations.ai/) - The best AI API.
