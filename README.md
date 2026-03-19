@@ -1,2 +1,1 @@
-# Free-Learning-Resources
-A curated list of completely free resources to learn tech, coding, and AI.
+# Free Learning Resources for Developers
