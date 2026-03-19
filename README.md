@@ -1,68 +1,76 @@
 # 🚀 Free Learning Resources & AI Mastery Portal
 
-A curated, high-quality directory of 100% free educational resources. From Computer Science fundamentals to Generative AI engineering and Developer Wellness, this repo is designed to help you master technical skills ethically and effectively.
+![GitHub last commit](https://img.shields.io/github/last-commit/ZevrinBuilds/Free-Learning-Resources) ![GitHub stars](https://img.shields.io/github/stars/ZevrinBuilds/Free-Learning-Resources) ![License](https://img.shields.io/github/license/ZevrinBuilds/Free-Learning-Resources)
 
-> **⚠️ Ethical Use Policy**
-> This repository and all resources linked herein are intended **solely for educational advancement, positive innovation, and skill building.** Users must adhere to the highest ethical standards. Use of these tools for harmful, malicious, deceptive, or unethical purposes is strictly prohibited. By accessing these resources, you commit to using your knowledge to create positive value for the global developer community.
+**Your open-access directory for mastering Coding, AI, and Developer Wellness.**
 
----
-
-## 📚 Master Index
-
-| Category | Goal | Best For |
-| :--- | :--- | :--- |
-| **Computer Science** | Build a foundational logic framework. | Absolute Beginners |
-| **Web Development** | Master full-stack professional workflows. | Beginners to Pro |
-| **Machine Learning** | Move from data to neural networks. | Beginners to AI Eng |
-| **AI APIs** | Build the next generation of LLM apps. | Developers |
-| **Developer Wellness** | Maintain cognitive longevity & health. | Everyone |
+> **⚠️ Ethical Use Policy:** This repository is for educational advancement and positive innovation only. Malicious use is strictly prohibited.
 
 ---
 
-## 💻 Curated Resource Directory
-
-### 🎓 Computer Science Foundations
-- [CS50x (Harvard)](https://cs50.harvard.edu/x/): The gold standard for algorithmic thinking.
-- [OSSU Curriculum](https://github.com/ossu/computer-science): A complete, university-equivalent CS roadmap.
-- [MIT OpenCourseWare](https://ocw.mit.edu/): World-class theoretical foundations.
-
-### 🌐 Full-Stack Development
-- [The Odin Project](https://www.theodinproject.com/): Job-ready, project-centric full-stack path.
-- [freeCodeCamp](https://www.freecodecamp.org/): Interactive coding challenges & certification.
-- [Full Stack Open](https://fullstackopen.com/): Advanced modern web development (React, Node, TypeScript).
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn): The industry-standard reference.
-
-### 🤖 AI & Machine Learning
-- [ML For Beginners (Microsoft)](https://github.com/microsoft/ML-For-Beginners): Hands-on 12-week classic ML path.
-- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course): Practical introduction with TensorFlow.
-- [Fast.ai](https://course.fast.ai/): The "code-first" approach to Deep Learning.
-- [Elements of AI](https://www.elementsofai.com/): Essential conceptual AI literacy.
-
-### ⚡ AI APIs & Orchestration
-- [GenAI for Beginners (Microsoft)](https://github.com/microsoft/generative-ai-for-beginners): The LLM landscape (RAG, Prompt Engineering, Agents).
-- [ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): The industry-standard prompting course.
-- [Learn Prompting](https://learnprompting.org/): The most comprehensive prompt engineering repo.
-- [LangChain Academy](https://academy.langchain.com/): Building complex, stateful AI agents.
-
-### 🧘 Developer Wellness
-- [OSMI Handbook](https://osmihelp.org/resources): Mental health strategies for tech professionals.
-- [Mayo Clinic Ergonomics](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169): Science-based physical health.
-- [Burnout.io](https://burnout.io/): Identifying and recovering from exhaustion.
-- [Super Productivity](https://super-productivity.com/): Sustainable productivity frameworks.
+## 📑 Table of Contents
+1. [Computer Science Foundations](#-computer-science-foundations)
+2. [Full-Stack Development](#-full-stack-development)
+3. [AI & Machine Learning](#-ai--machine-learning)
+4. [AI APIs & Orchestration](#-ai-apis--orchestration)
+5. [Developer Wellness](#-developer-wellness)
+6. [Evaluation Framework](#-expert-framework)
+7. [Contribute](#-how-to-contribute)
 
 ---
 
-## 🧠 Expert Framework: How to Evaluate Resources
-Before starting any new resource, use this rubric:
-1. **Structure:** Does it have a clear roadmap/syllabus?
-2. **Accessibility:** Are prerequisites clear? 
-3. **Practice:** Does it offer hands-on projects/exercises?
-4. **Maintenance:** Is it updated regularly?
-5. **Community:** Is there an active community/issue tracking?
+## 🎓 Computer Science Foundations
+*The bedrock of all technical skill.*
+- [CS50x (Harvard)](https://cs50.harvard.edu/x/) - Algorithmic thinking & logic.
+- [OSSU Curriculum](https://github.com/ossu/computer-science) - University-equivalent roadmap.
+- [MIT OpenCourseWare](https://ocw.mit.edu/) - Theoretical excellence.
+[⬆️ Back to Top](#-table-of-contents)
 
-*Analysis inspired by: "From Code to Models: A Beginner's Guide to Structured Learning"*
+## 🌐 Full-Stack Development
+*From browser to server.*
+- [The Odin Project](https://www.theodinproject.com/) - Job-ready, project-centric path.
+- [freeCodeCamp](https://www.freecodecamp.org/) - Interactive certs.
+- [Full Stack Open](https://fullstackopen.com/) - Modern SPAs (React/Node).
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) - Industry standard docs.
+[⬆️ Back to Top](#-table-of-contents)
+
+## 🤖 AI & Machine Learning
+*Building intelligent systems.*
+- [ML For Beginners (MS)](https://github.com/microsoft/ML-For-Beginners) - 12-week classic ML path.
+- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course) - TensorFlow basics.
+- [Fast.ai](https://course.fast.ai/) - Code-first Deep Learning.
+- [Elements of AI](https://www.elementsofai.com/) - Conceptual literacy.
+[⬆️ Back to Top](#-table-of-contents)
+
+## ⚡ AI APIs & Orchestration
+*Orchestrating the LLM era.*
+- [GenAI for Beginners (MS)](https://github.com/microsoft/generative-ai-for-beginners) - LLM apps & RAG.
+- [Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Masterclass in prompting.
+- [Learn Prompting](https://learnprompting.org/) - The ultimate prompt encyclopedia.
+- [LangChain Academy](https://academy.langchain.com/) - Building autonomous agents.
+[⬆️ Back to Top](#-table-of-contents)
+
+## 🧘 Developer Wellness
+*Sustainable high performance.*
+- [OSMI Handbook](https://osmihelp.org/resources) - Mental health in tech.
+- [Mayo Clinic Ergonomics](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169) - Physical longevity.
+- [Burnout.io](https://burnout.io/) - Recovery & prevention.
+- [Super Productivity](https://super-productivity.com/) - Sustainable work habits.
+[⬆️ Back to Top](#-table-of-contents)
+
+---
+
+## 🧠 Expert Framework: How to Evaluate
+Use this rubric to vet any repo:
+1. **Structure:** Roadmap/Syllabus present?
+2. **Accessibility:** Are prerequisites clear?
+3. **Practice:** Hands-on projects?
+4. **Maintenance:** Recently updated?
+5. **Community:** Active issues?
 
 ---
 
 ## 🤝 How to Contribute
-Pull Requests are welcome! If you know of a 100% free, high-quality resource that belongs here, please open a PR. Let's keep the ecosystem open-access and thriving.
+Pull Requests are welcome! If you find a 100% free, high-quality resource, open a PR. Let's keep the ecosystem open-access.
+
+⭐ **If you find this useful, please Star the repo! It helps others find these resources.**
